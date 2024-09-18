@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Frases motivacionais",
+    "version": "1.0",
+    "description": "Pergunta como você está se sentindo e exibe uma frase motivacional.",
+    "permissions": [
+      "storage",
+      "tabs",
+      "activeTab"
+    ],
+    "action": {
+      "default_popup": "popup.html"
+    }
+}
+
+
+
+  
+  
+  
+  
